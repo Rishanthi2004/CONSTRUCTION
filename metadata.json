@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Builders",
+  "description": "International luxury architectural construction, engineering, and turnkey building specialists. From foundation to landmark completion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
